@@ -18,3 +18,24 @@
   mission_name
   }
   }
+
+## Frontend [2] 08/12/20
+
+- npx create-react-app client
+- one single command working backend and frontend
+- npm i concurrently
+- change script "client": "npm start --prefix client"- "dev":"concurrently\"npm run server\" \"npm run client\"
+- both working with npm run dev
+- use bootswatch link and get theme
+- get logo of spacex
+- apollo // get started
+- cd client
+- npm install apollo-boost react-apollo graphql
+- error cores policy things
+- npm install cors
+- //allow cross-origin
+  app.use(cors())
+  in server.js
+- can see data in array! console
+- create LaunchItems
+- wrap with Fragment // it just not showing in source code?

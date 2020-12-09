@@ -39,3 +39,15 @@
 - can see data in array! console
 - create LaunchItems
 - wrap with Fragment // it just not showing in source code?
+
+# 09/12/20
+
+- npm i classnames moment react-moment
+- add launch color
+- add mission key component(very simple component)
+- format date with Moment
+- install react router
+  npm install react-router-dom
+- create Launch component
+- connect link and route so that when we click launch detail it can go to lauch.js component
+- finish launch js
